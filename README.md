@@ -1,4 +1,4 @@
-# Kubernetes The Hard Way
+# Kubernetes Personal
 
 Updated: March 2024
 
